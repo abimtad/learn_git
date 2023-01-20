@@ -16,3 +16,5 @@ Getting the hang of things.
 - 2023-01-16 11:17: documented implementation notes for `learn_git`.
 
 - 2023-01-17 18:44: updated project backlog context for `learn_git`.
+
+- 2023-01-20 16:17: captured maintenance observations for `learn_git`.
