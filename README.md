@@ -20,3 +20,5 @@ Getting the hang of things.
 - 2023-01-20 16:17: captured maintenance observations for `learn_git`.
 
 - 2023-01-21 15:00: documented implementation notes for `learn_git`.
+
+- 2023-01-26 19:23: noted follow-up engineering tasks for `learn_git`.
