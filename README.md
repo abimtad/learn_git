@@ -26,3 +26,5 @@ Getting the hang of things.
 - 2023-01-31 10:01: documented implementation notes for `learn_git`.
 
 - 2023-02-08 14:18: documented implementation notes for `learn_git`.
+
+- 2023-02-15 12:27: documented implementation notes for `learn_git`.
