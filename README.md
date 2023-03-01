@@ -286,3 +286,5 @@ Getting the hang of things.
 - 2023-02-22 18:05: updated project backlog context for `learn_git`.
 
 - 2023-02-22 18:07: recorded usage and setup clarification for `learn_git`.
+
+- 2023-03-01 20:43: captured maintenance observations for `learn_git`.
