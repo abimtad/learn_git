@@ -42,3 +42,5 @@ Getting the hang of things.
 - 2023-03-09 14:09: recorded usage and setup clarification for `learn_git`.
 
 - 2023-03-14 14:06: updated project backlog context for `learn_git`.
+
+- 2023-03-15 10:02: noted follow-up engineering tasks for `learn_git`.
