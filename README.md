@@ -72,3 +72,5 @@ Getting the hang of things.
 - 2023-04-24 20:30: updated project backlog context for `learn_git`.
 
 - 2023-04-24 20:33: documented implementation notes for `learn_git`.
+
+- 2023-04-25 13:17: noted follow-up engineering tasks for `learn_git`.
