@@ -318,3 +318,5 @@ Getting the hang of things.
 - 2023-04-27 12:52: captured maintenance observations for `learn_git`.
 
 - 2023-04-28 14:24: recorded usage and setup clarification for `learn_git`.
+
+- 2023-05-01 14:48: captured maintenance observations for `learn_git`.
