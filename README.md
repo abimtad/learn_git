@@ -354,3 +354,5 @@ Getting the hang of things.
 - 2023-06-19 16:15: updated project backlog context for `learn_git`.
 
 - 2023-06-22 12:46: updated project backlog context for `learn_git`.
+
+- 2023-06-29 14:50: documented implementation notes for `learn_git`.
