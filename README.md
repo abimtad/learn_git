@@ -136,3 +136,5 @@ Getting the hang of things.
 - 2023-07-19 14:36: updated project backlog context for `learn_git`.
 
 - 2023-07-20 12:13: updated project backlog context for `learn_git`.
+
+- 2023-07-20 12:15: recorded usage and setup clarification for `learn_git`.
