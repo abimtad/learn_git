@@ -400,3 +400,5 @@ Getting the hang of things.
 - 2023-10-02 20:31: updated project backlog context for `learn_git`.
 
 - 2023-10-03 16:23: noted follow-up engineering tasks for `learn_git`.
+
+- 2023-10-10 17:11: captured maintenance observations for `learn_git`.
