@@ -232,3 +232,5 @@ Getting the hang of things.
 - 2023-11-15 12:14: recorded usage and setup clarification for `learn_git`.
 
 - 2023-11-17 10:47: noted follow-up engineering tasks for `learn_git`.
+
+- 2023-11-20 15:19: noted follow-up engineering tasks for `learn_git`.
