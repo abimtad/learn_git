@@ -250,3 +250,5 @@ Getting the hang of things.
 - 2023-12-07 15:35: noted follow-up engineering tasks for `learn_git`.
 
 - 2023-12-08 20:19: documented implementation notes for `learn_git`.
+
+- 2023-12-22 13:33: noted follow-up engineering tasks for `learn_git`.
